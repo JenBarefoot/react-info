@@ -4,7 +4,7 @@ export default function Navbar() {
   return (
     <nav>
       <img
-        src="https://github.com/JenBarefoot/react-info/blob/main/assets/images/react-icon-small.png"
+        src="https://github.com/JenBarefoot/react-info/blob/main/assets/images/react-icon-small.png?raw=true"
         className="nav--icon"
       />
       <h3 className="nav--logo_text">ReactFacts</h3>
